@@ -1,0 +1,13 @@
+c:\users\hp\documents\visual studio 2010\Projects\DSC25112014\DSC25112014\bin\Debug\DSC25112014.exe
+c:\users\hp\documents\visual studio 2010\Projects\DSC25112014\DSC25112014\bin\Debug\DSC25112014.pdb
+c:\users\hp\documents\visual studio 2010\Projects\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.exe
+c:\users\hp\documents\visual studio 2010\Projects\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.pdb
+C:\Users\Student\Desktop\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.exe
+C:\Users\Student\Desktop\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.pdb
+C:\Users\Student\Desktop\DSC25112014\DSC25112014\bin\Debug\DSC25112014.exe
+C:\Users\Student\Desktop\DSC25112014\DSC25112014\bin\Debug\DSC25112014.pdb
+C:\Users\Student\Desktop\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.csprojResolveAssemblyReference.cache
+C:\Users\ismailtsn92\Desktop\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.exe
+C:\Users\ismailtsn92\Desktop\DSC25112014\DSC25112014\obj\x86\Debug\DSC25112014.pdb
+C:\Users\ismailtsn92\Desktop\Veri yapıları\ağaçlar sağa sola rotate var son yani\DSC25112014\obj\x86\Debug\DSC25112014.exe
+C:\Users\ismailtsn92\Desktop\Veri yapıları\ağaçlar sağa sola rotate var son yani\DSC25112014\obj\x86\Debug\DSC25112014.pdb
